@@ -1,0 +1,21 @@
+{
+    "name": "vscode-ciesielskico-theme",
+    "displayName": "vscode-ciesielskico-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ciesielskico-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ciesielskico-theme-color-theme.json"
+            }
+        ]
+    }
+}
